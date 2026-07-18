@@ -75,11 +75,11 @@
 
 <table>
 <tr>
-<td width="100%" valign="top">
+<td width="50%" valign="top">
 
 ### Pixora
 
-<img src="./pintrest.png">
+<img style="border-radius:10px ;border:0.5px solid white" src="./pintrest.png">
 
 A modern media discovery platform for exploring high-quality photos, videos, and GIFs. Search, save, download, and share content seamlessly through a fast, intuitive interface.
 
@@ -88,28 +88,12 @@ A modern media discovery platform for exploring high-quality photos, videos, and
 [![GitHub](https://img.shields.io/badge/Source-111111?style=for-the-badge&logo=github&logoColor=D8B26B)](https://github.com/vansh-create/pintrest-feature-clone)
 
 </td>
-</tr>
-<tr>
-<td width="100%" valign="top">
 
-### Netflix UI Clone
-
-<img src="./netflix.png">
-A pixel-perfect Netflix-inspired streaming interface built with Next.js and Tailwind CSS. Fully responsive layout with modern UI components and a smooth experience across devices.
-
-`Next.js` `Tailwind CSS`
-
-[![GitHub](https://img.shields.io/badge/Source-111111?style=for-the-badge&logo=github&logoColor=D8B26B)](https://github.com/vansh-create/netflix-using-next)
-
-</td>
-</tr>
-<tr>
-
-<td width="100%" valign="top">
+<td width="50%" valign="top">
 
 ### Lorem Picsum Photo Pedia
 
-<img src="./lorem picsum.png">
+<img style="border-radius:10px ;border:0.5px solid white" src="./lorem picsum.png">
 A React-based image gallery that fetches and displays high-quality random images from the Lorem Picsum API. Responsive design, pagination, downloads, and Axios integration.
 
 `React` `Axios` `REST API`
@@ -118,6 +102,24 @@ A React-based image gallery that fetches and displays high-quality random images
 [![GitHub](https://img.shields.io/badge/Source-111111?style=for-the-badge&logo=github&logoColor=D8B26B)](https://github.com/vansh-create/Photo-Pedia)
 
 </td>
+
+</tr>
+<tr>
+
+<td width="50%" valign="top">
+
+### Netflix UI Clone
+
+<img style="border-radius:10px ;border:0.5px solid white" src="./netflix.png">
+A pixel-perfect Netflix-inspired streaming interface built with Next.js and Tailwind CSS. Fully responsive layout with modern UI components and a smooth experience across devices.
+
+`Next.js` `Tailwind CSS`
+
+[![GitHub](https://img.shields.io/badge/Source-111111?style=for-the-badge&logo=github&logoColor=D8B26B)](https://github.com/vansh-create/netflix-using-next)
+
+</td>
+
+
 <td width="50%" valign="top"></td>
 </tr>
 </table>
