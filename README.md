@@ -79,7 +79,7 @@
 
 ### Pixora
 
-<img src="https://hips.hearstapps.com/hmg-prod/images/gettyimages-2165950545-69600af8c9b0d.jpg?crop=0.670xw:1.00xh;0.134xw,0&resize=1120:*">
+<img src="./pintrest.png">
 
 A modern media discovery platform for exploring high-quality photos, videos, and GIFs. Search, save, download, and share content seamlessly through a fast, intuitive interface.
 
@@ -94,7 +94,7 @@ A modern media discovery platform for exploring high-quality photos, videos, and
 
 ### Netflix UI Clone
 
-<img src="https://hips.hearstapps.com/hmg-prod/images/gettyimages-2165950545-69600af8c9b0d.jpg?crop=0.670xw:1.00xh;0.134xw,0&resize=1120:*">
+<img src="./netflix.png">
 A pixel-perfect Netflix-inspired streaming interface built with Next.js and Tailwind CSS. Fully responsive layout with modern UI components and a smooth experience across devices.
 
 `Next.js` `Tailwind CSS`
@@ -109,7 +109,7 @@ A pixel-perfect Netflix-inspired streaming interface built with Next.js and Tail
 
 ### Lorem Picsum Photo Pedia
 
-<img src="https://hips.hearstapps.com/hmg-prod/images/gettyimages-2165950545-69600af8c9b0d.jpg?crop=0.670xw:1.00xh;0.134xw,0&resize=1120:*">
+<img src="./lorem picsum.png">
 A React-based image gallery that fetches and displays high-quality random images from the Lorem Picsum API. Responsive design, pagination, downloads, and Axios integration.
 
 `React` `Axios` `REST API`
