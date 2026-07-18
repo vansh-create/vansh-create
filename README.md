@@ -4,7 +4,26 @@
 <img src="./Animated.svg" alt="Vansh Kesharwani — Frontend Developer" width="100%" />
 </a>
 
-<br/><br/>
+<br/>
+
+<h3><code>vansh@github ~ $ whoami</code></h3>
+
+<table>
+<tr>
+<td valign="top"><img src="./avi-ascii.svg" width="370" alt="Avi Vashishta — ASCII portrait" /></td>
+<td valign="top"><img src="./info-card.svg" width="490" alt="Avi Vashishta — experience, stack, highlights" /></td>
+</tr>
+</table>
+
+<br>
+
+<h3><code>vansh@github ~ $ ./contributions.sh</code></h3>
+
+<img src="./contrib-heatmap.svg" width="860" alt="Vansh's GitHub contribution graph — auto-refreshed daily" />
+
+<br>
+
+
 
 <img src="https://komarev.com/ghpvc/?username=vansh-create&color=D8B26B&style=for-the-badge&label=PROFILE+VIEWS&labelColor=111222" alt="Profile Views" />
 <img src="https://img.shields.io/github/followers/vansh-create?style=for-the-badge&logo=github&color=111111&labelColor=111222&logoColor=D8B26B&label=FOLLOWERS" alt="Followers" />
@@ -17,15 +36,6 @@
 
 <br/>
 
-## About
-
-- 🎓 B.Tech student at Babasaheb Bhimrao Ambedkar University (Central University)
-- 🔭 Building considered, high-craft frontend experiences
-- 🌱 Leveling up in backend fundamentals — Node.js, Express, databases
-- 💬 Always down to talk React, Next.js, Redux, Tailwind CSS
-- 📫 vanshkesharwani569@gmail.com
-
-<br/>
 
 ## Tech Stack
 
@@ -37,42 +47,24 @@
 
 <br/>
 
-## GitHub Stats
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=vansh-create&show_icons=true&hide_border=true&bg_color=0D1117&title_color=D8B26B&text_color=F4EFE6&icon_color=D8B26B&ring_color=D8B26B" width="48%" />
-<img src="https://streak-stats.demolab.com/?user=vansh-create&hide_border=true&background=0D1117&stroke=D8B26B&ring=D8B26B&fire=D8B26B&currStreakLabel=D8B26B&sideLabels=D8B26B&currStreakNum=F4EFE6&sideNums=F4EFE6&dates=6B7280" width="48%" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vansh-create&layout=compact&hide_border=true&bg_color=0D1117&title_color=D8B26B&text_color=F4EFE6" width="55%" />
-</div>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=vansh-create&theme=gruvbox&no-frame=true&row=1&column=6" />
-</div>
-
-<br/>
-
-## 🐍 Contribution Snake
+<!-- ## 🐍 Contribution Snake
 
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/vansh-create/vansh-create/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 
-<sub>⚠️ Animates once <code>snake.yml</code> (included) is added to <code>.github/workflows/</code> in your <code>vansh-create/vansh-create</code> repo — see setup note below.</sub>
-
 </div>
 
-<br/>
+<br/> -->
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🕶️ Pixora
+### Pixora
 A modern media discovery platform for exploring high-quality photos, videos, and GIFs. Search, save, download, and share content seamlessly through a fast, intuitive interface.
 
 `React` `Media API`
@@ -82,7 +74,7 @@ A modern media discovery platform for exploring high-quality photos, videos, and
 </td>
 <td width="50%" valign="top">
 
-### 🎬 Netflix UI Clone
+### Netflix UI Clone
 A pixel-perfect Netflix-inspired streaming interface built with Next.js and Tailwind CSS. Fully responsive layout with modern UI components and a smooth experience across devices.
 
 `Next.js` `Tailwind CSS`
@@ -94,12 +86,12 @@ A pixel-perfect Netflix-inspired streaming interface built with Next.js and Tail
 <tr>
 <td width="50%" valign="top">
 
-### 🖼️ Lorem Picsum Photo Pedia
+### Lorem Picsum Photo Pedia
 A React-based image gallery that fetches and displays high-quality random images from the Lorem Picsum API. Responsive design, pagination, downloads, and Axios integration.
 
 `React` `Axios` `REST API`
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-D8B26B?style=for-the-badge&logo=vercel&logoColor=111111)](https://lorem-picsum-react.netlify.app/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-D8B26B?style=for-the-badge&logo=vercel&logoColor=000)](https://lorem-picsum-react.netlify.app/)
 [![GitHub](https://img.shields.io/badge/Source-111111?style=for-the-badge&logo=github&logoColor=D8B26B)](https://github.com/vansh-create/Photo-Pedia)
 
 </td>
@@ -108,12 +100,6 @@ A React-based image gallery that fetches and displays high-quality random images
 </table>
 
 <br/>
-
-<div align="center">
-
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
-</div>
 
 <div align="center">
 
