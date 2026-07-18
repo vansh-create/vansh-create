@@ -6,21 +6,34 @@
 
 <br/>
 
-<h3><code>vansh@github ~ $ whoami</code></h3>
+</div>
+
+## About Me
+<!-- <h3><code>vansh@github ~ $ whoami</code></h3> -->
+
+<div align="center">
 
 <table>
 <tr>
-<td valign="top"><img src="./avi-ascii.svg" width="370" alt="Avi Vashishta — ASCII portrait" /></td>
-<td valign="top"><img src="./info-card.svg" width="490" alt="Avi Vashishta — experience, stack, highlights" /></td>
+<td valign="top"><img src="./avi-ascii.svg" width="370" alt="Vansh's github — ASCII portrait" /></td>
+<td valign="top"><img src="./info-card.svg" width="490" alt="Vansh's github — experience, stack, highlights" /></td>
 </tr>
 </table>
 
 <br>
 
-<h3><code>vansh@github ~ $ ./contributions.sh</code></h3>
+</div>
+
+
+
+<!-- <h3><code>vansh@github ~ $ ./contributions.sh</code></h3> -->
+## Contributions
+
+<div align="center">
 
 <img src="./contrib-heatmap.svg" width="860" alt="Vansh's GitHub contribution graph — auto-refreshed daily" />
 
+<br>
 <br>
 
 
@@ -62,9 +75,12 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
 ### Pixora
+
+<img src="https://hips.hearstapps.com/hmg-prod/images/gettyimages-2165950545-69600af8c9b0d.jpg?crop=0.670xw:1.00xh;0.134xw,0&resize=1120:*">
+
 A modern media discovery platform for exploring high-quality photos, videos, and GIFs. Search, save, download, and share content seamlessly through a fast, intuitive interface.
 
 `React` `Media API`
@@ -72,9 +88,13 @@ A modern media discovery platform for exploring high-quality photos, videos, and
 [![GitHub](https://img.shields.io/badge/Source-111111?style=for-the-badge&logo=github&logoColor=D8B26B)](https://github.com/vansh-create/pintrest-feature-clone)
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td width="100%" valign="top">
 
 ### Netflix UI Clone
+
+<img src="https://hips.hearstapps.com/hmg-prod/images/gettyimages-2165950545-69600af8c9b0d.jpg?crop=0.670xw:1.00xh;0.134xw,0&resize=1120:*">
 A pixel-perfect Netflix-inspired streaming interface built with Next.js and Tailwind CSS. Fully responsive layout with modern UI components and a smooth experience across devices.
 
 `Next.js` `Tailwind CSS`
@@ -84,9 +104,12 @@ A pixel-perfect Netflix-inspired streaming interface built with Next.js and Tail
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+
+<td width="100%" valign="top">
 
 ### Lorem Picsum Photo Pedia
+
+<img src="https://hips.hearstapps.com/hmg-prod/images/gettyimages-2165950545-69600af8c9b0d.jpg?crop=0.670xw:1.00xh;0.134xw,0&resize=1120:*">
 A React-based image gallery that fetches and displays high-quality random images from the Lorem Picsum API. Responsive design, pagination, downloads, and Axios integration.
 
 `React` `Axios` `REST API`
