@@ -1,0 +1,16 @@
+<svg width="249" height="46" viewBox="0 0 249 46" xmlns="http://www.w3.org/2000/svg">
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.15s" dur="0.4s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" values="0,0; 0,-4; 0,0" dur="3.0s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.45 0 0.55 1;0.45 0 0.55 1"/>
+    <rect x="4.0" y="3" width="97.7" height="40" rx="20.0" fill="#111111" stroke="#D8B26B" stroke-opacity="0.35" stroke-width="1"/>
+    <g><circle cx="24" cy="23.0" r="8.5" fill="#000000" stroke="#FFFFFF" stroke-opacity="0.45" stroke-width="1"/><text x="24" y="27.0" font-family="system-ui, Arial, sans-serif" font-size="11" font-weight="800" fill="#FFFFFF" text-anchor="middle">N</text></g>
+    <text x="38.0" y="27.5" font-family="system-ui, -apple-system, Segoe UI, Arial, sans-serif" font-size="12.5" font-weight="600" fill="#F4EFE6">Next.js</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.3s" dur="0.4s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" values="0,0; 0,-4; 0,0" dur="3.4s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.45 0 0.55 1;0.45 0 0.55 1"/>
+    <rect x="111.7" y="3" width="133.2" height="40" rx="20.0" fill="#111111" stroke="#D8B26B" stroke-opacity="0.35" stroke-width="1"/>
+    <g transform="translate(123.7,18.5) scale(0.9)"><path d="M4.5 0 C2 0 0.6 1.2 0 3.6 C1 2.4 2.2 2 3.6 2.4 C4.4 2.6 5 3.2 5.6 3.8 C6.6 4.8 7.8 6 10 6 C12.5 6 13.9 4.8 14.5 2.4 C13.5 3.6 12.3 4 10.9 3.6 C10.1 3.4 9.5 2.8 8.9 2.2 C7.9 1.2 6.7 0 4.5 0 Z" fill="#38BDF8"/><path d="M0 5.4 C-2.5 5.4 -3.9 6.6 -4.5 9 C-3.5 7.8 -2.3 7.4 -0.9 7.8 C-0.1 8 0.5 8.6 1.1 9.2 C2.1 10.2 3.3 11.4 5.5 11.4 C8 11.4 9.4 10.2 10 7.8 C9 9 7.8 9.4 6.4 9 C5.6 8.8 5 8.2 4.4 7.6 C3.4 6.6 2.2 5.4 0 5.4 Z" fill="#0EA5E9" transform="translate(5.5,0)"/></g>
+    <text x="145.7" y="27.5" font-family="system-ui, -apple-system, Segoe UI, Arial, sans-serif" font-size="12.5" font-weight="600" fill="#F4EFE6">Tailwind CSS</text>
+  </g>
+</svg>

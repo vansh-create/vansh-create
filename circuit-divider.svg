@@ -1,0 +1,23 @@
+<svg width="1200" height="40" viewBox="0 0 1200 40" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="glowDot" x="-200%" y="-200%" width="500%" height="500%">
+      <feGaussianBlur stdDeviation="2.5"/>
+    </filter>
+    <path id="trace" d="M0,20 L470,20 L500,10 L540,10 L570,20 L630,20 L660,30 L700,30 L730,20 L1200,20"/>
+  </defs>
+
+  <use href="#trace" stroke="#D8B26B" stroke-opacity="0.18" stroke-width="1.3" fill="none"/>
+
+  <circle cx="470" cy="20" r="3" fill="none" stroke="#D8B26B" stroke-width="1.2" opacity="0.7"/>
+  <circle cx="540" cy="10" r="3" fill="none" stroke="#D8B26B" stroke-width="1.2" opacity="0.7"/>
+  <circle cx="630" cy="20" r="3" fill="none" stroke="#D8B26B" stroke-width="1.2" opacity="0.7"/>
+  <circle cx="700" cy="30" r="3" fill="none" stroke="#D8B26B" stroke-width="1.2" opacity="0.7"/>
+  <circle cx="730" cy="20" r="3" fill="none" stroke="#D8B26B" stroke-width="1.2" opacity="0.7"/>
+  <circle cx="0" cy="20" r="2.6" fill="#D8B26B" opacity="0.6"/>
+  <circle cx="1200" cy="20" r="2.6" fill="#D8B26B" opacity="0.6"/>
+
+  <circle r="4" fill="#D8B26B" filter="url(#glowDot)">
+    <animateMotion dur="4.5s" repeatCount="indefinite" path="M0,20 L470,20 L500,10 L540,10 L570,20 L630,20 L660,30 L700,30 L730,20 L1200,20"/>
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.9;1" dur="4.5s" repeatCount="indefinite"/>
+  </circle>
+</svg>

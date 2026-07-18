@@ -8,7 +8,8 @@
 
 </div>
 
-## About Me
+<div style="font-size:1.5rem"><strong>About Me</strong></div>
+<img src="./section-divider.svg" width="100%" alt="">
 <!-- <h3><code>vansh@github ~ $ whoami</code></h3> -->
 
 <div align="center">
@@ -27,7 +28,8 @@
 
 
 <!-- <h3><code>vansh@github ~ $ ./contributions.sh</code></h3> -->
-## Contributions
+<div style="font-size:1.5rem"><strong>Contributions</strong></div>
+<img src="./section-divider.svg" width="100%" alt="">
 
 <div align="center">
 
@@ -36,11 +38,14 @@
 <br>
 <br>
 
+<img src="./circuit-divider.svg" width="100%" height="40" alt="" />
 
+<img src="https://komarev.com/ghpvc/?username=vansh-create&color=D8B26B&style=for-the-badge&label=PROFILE+VIEWS&labelColor=111111" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/vansh-create?style=for-the-badge&logo=github&color=111111&labelColor=111111&logoColor=D8B26B&label=FOLLOWERS" alt="Followers" />
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=vansh-create&color=D8B26B&style=for-the-badge&label=PROFILE+VIEWS&labelColor=111222" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/vansh-create?style=for-the-badge&logo=github&color=111111&labelColor=111222&logoColor=D8B26B&label=FOLLOWERS" alt="Followers" />
-
+<img src="./status-bar.svg" alt="" />
+<br/>
 <a href="https://www.linkedin.com/in/vansh-kesharwani-developer/?skipRedirect=true" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=D8B26B" /></a>
 <a href="mailto:vanshkesharwani569@gmail.com"><img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=D8B26B" /></a>
 <a href="https://github.com/vansh-create" target="_blank"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=D8B26B" /></a>
@@ -49,8 +54,8 @@
 
 <br/>
 
-
-## Tech Stack
+<div style="font-size:1.5rem"><strong>Tech Stack</strong></div>
+<img src="./section-divider.svg" width="100%" alt="">
 
 <div align="center">
 
@@ -71,7 +76,8 @@
 
 <br/> -->
 
-## Featured Projects
+<div style="font-size:1.5rem"><strong>Featured Projects</strong></div>
+<img src="./section-divider.svg" width="100%" alt="">
 
 <table>
 <tr>
@@ -79,11 +85,15 @@
 
 ### Pixora
 
-<img style="border-radius:10px ;border:0.5px solid white" src="./pintrest.png">
+<img style="height:25rem; border-radius:10px ;border:0.5px solid white" src="./pintrest.png">
 
+<br>
 A modern media discovery platform for exploring high-quality photos, videos, and GIFs. Search, save, download, and share content seamlessly through a fast, intuitive interface.
 
-`React` `Media API`
+<!-- `React` `Media API` -->
+<br>
+
+<img src="./tags-pixora.svg" alt="React, Media API" />
 
 [![GitHub](https://img.shields.io/badge/Source-111111?style=for-the-badge&logo=github&logoColor=D8B26B)](https://github.com/vansh-create/pintrest-feature-clone)
 
@@ -93,10 +103,13 @@ A modern media discovery platform for exploring high-quality photos, videos, and
 
 ### Lorem Picsum Photo Pedia
 
-<img style="border-radius:10px ;border:0.5px solid white" src="./lorem picsum.png">
+<img style="height:25rem; border-radius:10px ;border:0.5px solid white" src="./lorem picsum.png">
+<br><br>
 A React-based image gallery that fetches and displays high-quality random images from the Lorem Picsum API. Responsive design, pagination, downloads, and Axios integration.
 
-`React` `Axios` `REST API`
+<!-- `React` `Axios` `REST API` -->
+<br>
+<img src="./tags-photopedia.svg" alt="React, Axios, REST API" />
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-D8B26B?style=for-the-badge&logo=vercel&logoColor=000)](https://lorem-picsum-react.netlify.app/)
 [![GitHub](https://img.shields.io/badge/Source-111111?style=for-the-badge&logo=github&logoColor=D8B26B)](https://github.com/vansh-create/Photo-Pedia)
@@ -111,9 +124,12 @@ A React-based image gallery that fetches and displays high-quality random images
 ### Netflix UI Clone
 
 <img style="border-radius:10px ;border:0.5px solid white" src="./netflix.png">
+<br><br>
 A pixel-perfect Netflix-inspired streaming interface built with Next.js and Tailwind CSS. Fully responsive layout with modern UI components and a smooth experience across devices.
 
-`Next.js` `Tailwind CSS`
+<!-- `Next.js` `Tailwind CSS` -->
+<br>
+<img src="./tags-netflix.svg" alt="Next.js, Tailwind CSS" />
 
 [![GitHub](https://img.shields.io/badge/Source-111111?style=for-the-badge&logo=github&logoColor=D8B26B)](https://github.com/vansh-create/netflix-using-next)
 
@@ -128,6 +144,6 @@ A pixel-perfect Netflix-inspired streaming interface built with Next.js and Tail
 
 <div align="center">
 
-<i>Thanks for stopping by — let's build something considered.</i>
+<code>console.log("Thanks for scrolling");</code>
 
 </div>
